@@ -1,6 +1,6 @@
 # Text-To-Speech
 
-Considering the `requirements.txt`, all the libraries should be downloaded through the [install.sh](https://github.com/Aborevsky01/Text-To-Speech/blob/main/install.sh) file. If any concers/issues appear, please contact me for the decision.
+Considering the `requirements.txt`, all the libraries should be downloaded through the [install.sh](https://github.com/Aborevsky01/Text-To-Speech/blob/main/install.sh) file, as it is shown inside the [Report](https://github.com/Aborevsky01/Text-To-Speech/blob/main/Report.ipynb) notebook. If any concers/issues appear, please contact me for the decision.
 
 Link to download checkpoint for experiment 3: https://www.dropbox.com/s/35sj4jg8ml28x7l/experiment3.pth.tar?dl=0
 
